@@ -42,7 +42,7 @@
 ## 在特定场合比较屌的引擎库
 * [cocos2d-x](https://github.com/cocos2d/cocos2d-x) 一个手游引擎,有点NB,不多解释
 
-* [openssl](https://github.com/openssl/openssl) 各种乱七八糟的数字指纹(CRC,MD5,SHA1)
+* [openssl](https://github.com/openssl/openssl) 各种乱七八糟的数字指纹(MD5,SHA1)
 
 * [libcurl](https://github.com/curl/curl) 支持N多操作系统和N多网络协议的网络库,没事瞎撸撸很不错.
 	- N种装逼协议(FTP, FTPS, HTTP, HTTPS, GOPHER, TFTP, SCP, SFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP, RTMP)
