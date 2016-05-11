@@ -40,6 +40,9 @@
 * [wine](https://wiki.winehq.org/Git_Wine_Tutorial) 在Linux/BSD/Unix中运行Windows程序.
 
 ## 在特定场合比较屌的引擎库
+
+* [boost::threadpool](http://threadpool.sourceforge.net/index.html) 高性能线程池
+
 * [cocos2d-x](https://github.com/cocos2d/cocos2d-x) 一个手游引擎,有点NB,不多解释
 
 * [openssl](https://github.com/openssl/openssl) 各种乱七八糟的数字指纹(MD5,SHA1)
